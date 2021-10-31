@@ -1,4 +1,4 @@
-// P6_LeetCode34
+ // P6_LeetCode34
 //https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 //Amazon Interview Question
 //Find First And Last Position of element in Sorted Array
@@ -32,7 +32,11 @@ public class P6_LeetCode34
 	        ans[0] = search(nums,target,true);
 
 	        // last position of target
-	        ans[1] = search(nums,target,false);
+	        //if my first occurence is -1 means there is no first occurence so there will be no last occurence
+	        if(ans[0] != -1)
+	        {
+	        	ans[1] = search(nums,target,false);
+	        }
 
 	        return ans;
     }
