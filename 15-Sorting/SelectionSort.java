@@ -6,7 +6,7 @@ public class SelectionSort
 {
 	public static void main(String[] args)
 	{
-		int[] arr = {-1,-4,-6,2};
+		int[] arr = {1 ,23, 12, 9, 30 ,2, 50};
 		selection(arr);
 		System.out.println(Arrays.toString(arr));
 	}

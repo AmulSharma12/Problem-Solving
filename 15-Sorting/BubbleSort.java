@@ -5,17 +5,18 @@ public class BubbleSort
 {
 	public static void main(String[] args)
 	{
-		int[] arr = {3,3,6,78,9};
+		int[] arr = {1 ,23, 12, 9, 30 ,2, 50};
 		bubbleSort(arr);
 		System.out.println(Arrays.toString(arr));
 	}
 
 	public static void bubbleSort(int[] nums)
 	{
+		boolean isSwap = false;
 		//outer loop n-1 times
 		for(int i = 0; i<nums.length-1; i++)
 		{
-			boolean isSwap = false;
+			
 
 			//inner loop till unsorted array
 			for(int j = 1; j<nums.length-i; j++)
@@ -31,7 +32,7 @@ public class BubbleSort
 			}
 
 			//if no swap happens then it is sorted
-			if(!isSwap)
+			if(isSwap)
 				break;
 		}
 	}
