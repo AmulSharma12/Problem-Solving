@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10-Linear-Search/10-Linear-Search.iml" filepath="$PROJECT_DIR$/10-Linear-Search/10-Linear-Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-String/16-String.iml" filepath="$PROJECT_DIR$/16-String/16-String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-first-java-program/5-first-java-program.iml" filepath="$PROJECT_DIR$/5-first-java-program/5-first-java-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-Switch-NestedSwitch/7-Switch-NestedSwitch.iml" filepath="$PROJECT_DIR$/7-Switch-NestedSwitch/7-Switch-NestedSwitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-Methods/8-Methods.iml" filepath="$PROJECT_DIR$/8-Methods/8-Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-first-java-program/Assignments-1/Assignments-1.iml" filepath="$PROJECT_DIR$/5-first-java-program/Assignments-1/Assignments-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-first-java-program/Assignments-2/Assignments-2.iml" filepath="$PROJECT_DIR$/5-first-java-program/Assignments-2/Assignments-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-Algorithims/DataStructures/DataStructures.iml" filepath="$PROJECT_DIR$/1-Algorithims/DataStructures/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dsa-Java.iml" filepath="$PROJECT_DIR$/Dsa-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-Arrays-ArrayList/Practice-Arrays/Practice-Arrays.iml" filepath="$PROJECT_DIR$/9-Arrays-ArrayList/Practice-Arrays/Practice-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-Conditionals-Loops/Practice-Conditionals-Loops/Practice-Conditionals-Loops.iml" filepath="$PROJECT_DIR$/6-Conditionals-Loops/Practice-Conditionals-Loops/Practice-Conditionals-Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-Algorithims/Practice-Problems/Practice-Problems.iml" filepath="$PROJECT_DIR$/1-Algorithims/Practice-Problems/Practice-Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-Arrays-ArrayList/code/code.iml" filepath="$PROJECT_DIR$/9-Arrays-ArrayList/code/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-Conditionals-Loops/code/code1.iml" filepath="$PROJECT_DIR$/6-Conditionals-Loops/code/code1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-first-java-program/first-idea-project/first-idea-project.iml" filepath="$PROJECT_DIR$/5-first-java-program/first-idea-project/first-idea-project.iml" />
+    </modules>
+  </component>
+</project>
