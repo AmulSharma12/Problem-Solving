@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class CircularQueue
 {
-	private int[] data;
+	protected int[] data;
 	private static final int DEFAULT_SIZE = 10;
 
 	protected int front = 0;
@@ -98,7 +98,7 @@ public class CircularQueueImplementation
 		queue.insert(8);
 
 
-		System.out.println(queue.front());
+		// System.out.println(queue.front());
 		queue.display();
 		System.out.println("removed element : " + queue.remove());
 		System.out.println(queue.front());
